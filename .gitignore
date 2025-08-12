@@ -1,3 +1,4 @@
 # Ignore:
 *.log          # All files ending with .log (Type 1)
 temp/          # Entire 'temp' directory (Type 2)
+*.tmp      # Ignore all .tmp files
